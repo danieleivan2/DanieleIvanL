@@ -1,0 +1,42 @@
+h1{
+	font-size: 50px;
+	text-align: center;     
+	font-family: verdana;      
+	background-image:linear-gradient(to right,white,purple);
+	border: 5px black solid;
+	margin: 15px 20px 30px 35px;      
+	padding: 10px 20px 10px 20px;     
+	text-decoration: underline;      
+}
+.navi{
+	position: relative;
+	left:600px;
+}
+h2{
+	font-size: 30px;
+	text-align: center;     
+	font-family: verdana;      
+	margin: 15px 20px 30px 35px;      
+	padding: 10px 20px 10px 20px;     
+	text-decoration: underline;      
+}
+p{
+	font-size: 20px;
+	text-align: center;     
+	font-family: verdana;      
+	margin: 15px 20px 30px 35px;      
+	padding: 10px 20px 10px 20px;           
+}
+a{
+	font-size: 35px;    
+	font-family: verdana;      
+	margin: 15px 20px 30px 35px;      
+	padding: 10px 20px 10px 20px;           
+}
+.dani{
+	position: relative;
+	left:550px;
+}
+ul{
+	font-size: 37px;           
+}
